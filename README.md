@@ -1,6 +1,6 @@
 ## Saliu Jamiu Olamilekan
 
-AI automation engineer in Lagos, Nigeria. I design, build and ship production AI
+AI Automation & Full-Stack Engineer. in Lagos, Nigeria. I design, build and ship production AI
 systems end to end, from client brief to deployed product.
 
 Most of my work is delivery: architecting the solution, integrating the moving
@@ -33,7 +33,7 @@ macOS using faster-whisper. Local and private; audio never leaves the machine.
 ### What I work with
 
 **Backend** · Python, FastAPI, Supabase (Postgres, pgvector, RLS), REST APIs
-**AI** · Claude, LLM app integration, RAG pipelines, MCP, voice agents (VAPI, LiveKit)
+**AI** · Claude, Codex, AI Harness, LLM app integration, RAG pipelines, MCP, voice agents (VAPI, LiveKit)
 **Orchestration** · n8n, Make.com, Trigger.dev, webhook and background jobs
 **Frontend & deploy** · Next.js, TypeScript, Astro, Vercel, Netlify, Railway, Docker
 
@@ -69,4 +69,4 @@ recommend a brand, and what to fix when they don't.
 
 [jamiusaliu090@gmail.com](mailto:jamiusaliu090@gmail.com) · [jamiuaisolution.online](https://jamiuaisolution.online)
 
-Open to contract and freelance work building and maintaining AI automation systems.
+Open to contract and freelance work building and maintaining AI systems both globally or sponsored relocation.
